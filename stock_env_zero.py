@@ -307,11 +307,11 @@ class stock:
         plt.savefig(name+'-trade.png')
         ###plt.close()
         
-        fig = plt.figure(figsize = (15,5))
-        plt.plot(profit_rate_account, label='my account')
-        plt.plot(profit_rate_stock, label='stock')
-        plt.legend()
-        plt.savefig(name+'-profit.png')
+        #fig = plt.figure(figsize = (15,5))
+        #plt.plot(profit_rate_account, label='my account')
+        #plt.plot(profit_rate_stock, label='stock')
+        #plt.legend()
+        #plt.savefig(name+'-profit.png')
         ###plt.close()
         
         
